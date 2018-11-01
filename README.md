@@ -1,1 +1,1 @@
-This is a fork of laradock/laradock
+This is a fork of laradock/laradock.
